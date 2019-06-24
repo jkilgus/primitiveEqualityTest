@@ -1,5 +1,8 @@
 # primitiveEqualityTest
 Tests how equal certain unit types are in Java, including int[], object, string, and boolean
+This is called a Primitive equality test not because it is primitive in its normal definition,
+but in Java Primitive Units are a specific type that behave a certain way and this example
+illustrates that behavior.
 
 
 		int[] a = {1,2,3};
